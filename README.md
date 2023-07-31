@@ -1,4 +1,4 @@
-- 👋 Hi, I’m olaopin5_Yetunde
+- 👋 Hi, I’m Yetunde
 - 👀 I’m interested in Reinforcement Learning
 - 🌱 I’m currently learning how to implement ML Algorithms
 - 💞️ I’m looking to collaborate on ...
